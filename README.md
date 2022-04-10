@@ -1,4 +1,4 @@
-# Merria-Webster Alfred workflow
+# Merriam-Webster Alfred workflow
 
 This is an [Alfred workflow](https://www.alfredapp.com/workflows/) that lets you quickly search the Merriam Webster dictionary and thesaurus.
 
