@@ -1,9 +1,9 @@
 # Merriam-Webster Alfred workflow
 
-This is an [Alfred workflow](https://www.alfredapp.com/workflows/) that lets you quickly search the Merriam Webster dictionary and thesaurus.
+This is an [Alfred workflow](https://www.alfredapp.com/workflows/) that lets you quickly search the [Merriam-Webster](https://www.merriam-webster.com/) dictionary and thesaurus.
 
 ## Installation
-Download the `.alfredworkflow` file from the [latest release](https://github.com/sajadtorkamani/merriam-webster-alfred-workflow/releases).
+Download the `.alfredworkflow` file from the [latest release](https://github.com/sajadtorkamani/merriam-webster-alfred-workflow/releases). Once downloaded, click the file to import it as an Alfred workflow.
 
 ## Usage
 
