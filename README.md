@@ -9,7 +9,7 @@ Download the `.alfredworkflow` file from the [latest release](https://github.com
 
 ### Look up dictionary
 
-Press your Alfred hotkey and type `de {query}`.
+Press your [Alfred hotkey](https://www.alfredapp.com/help/workflows/triggers/hotkey/) and type `de {query}`.
 
 ![Alfred workflow for Merriam-Webster dictionary](./screenshots/Dictionary.png)
 
